@@ -16,7 +16,7 @@
 
 ## 💻 Cara Menjalankan di Komputer Lokal
 
-Pastikan kamu sudah menginstal **Python** di komputermu.
+Pastikan sudah menginstal **Python**.
 
 1. **Clone Repository ini:**
    ```bash
